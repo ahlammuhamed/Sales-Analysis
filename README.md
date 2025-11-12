@@ -64,7 +64,3 @@ The **Power BI dashboard** will allow SmartTech Electronics to:
 - Analyze **product, country, and customer segment performance**  
 - Make **data-driven budgeting and investment decisions**  
 - Monitor **discount strategies and cost optimization impacts**  
-
----
-
-*Created with 💡 insights from financial and operational data analysis.*
